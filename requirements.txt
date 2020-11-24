@@ -6,3 +6,5 @@ scipy
 sklearn
 missingno
 jupyter
+xlrd
+pandas-profiling[notebook]
